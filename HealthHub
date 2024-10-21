@@ -1,0 +1,751 @@
+<div class="OverviewPage" style="width: 1280px; height: 832px; position: relative; background: #F5F5F5; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)">
+    <div class="NavigationBar" style="width: 960px; height: 89px; left: 320px; top: 0px; position: absolute; background: white"></div>
+    <div class="GoodEveningWelcomeMostafa" style="left: 336px; top: 15px; position: absolute"><span style="color: #333333; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">Good Evening!</span><span style="color: #333333; font-size: 24px; font-family: Inter; font-weight: 700; word-wrap: break-word">   Welcome, Mostafa!</span></div>
+    <div class="Search" style="width: 461px; height: 54.82px; left: 640px; top: 15px; position: absolute">
+      <div class="SearchBar" style="width: 461px; height: 54.82px; left: 0px; top: 0px; position: absolute; border-radius: 15px; border: 1px #9C9C9C solid"></div>
+      <div class="SearchForAWorkout" style="left: 110px; top: 12px; position: absolute; color: #333333; font-size: 25px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Search for a Workout!</div>
+      <div class="Search" style="width: 40.44px; height: 31.45px; left: 420.56px; top: 11.68px; position: absolute">
+        <div class="Vector" style="width: 9.69px; height: 8.91px; left: 7.42px; top: 5.77px; position: absolute; background: #BBBBBB"></div>
+        <div class="Vector" style="width: 32.35px; height: 25.16px; left: 4.05px; top: 3.15px; position: absolute; background: #BBBBBB"></div>
+      </div>
+    </div>
+    <div class="MaskGroup" style="width: 62px; height: 62px; left: 1202px; top: 6px; position: absolute">
+      <div class="Ellipse1" style="width: 62px; height: 62px; left: 0px; top: 0px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+      <img class="MyProfile1" style="width: 62.61px; height: 60.78px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/63x61" />
+    </div>
+    <div class="Vector" style="width: 47px; height: 43px; left: 1128px; top: 23px; position: absolute; background: #333333"></div>
+    <div class="HealthubSlogan" style="width: 786px; height: 160px; left: 407px; top: 117px; position: absolute; border-radius: 12px; overflow: hidden">
+      <img class="AnastasiaHiselTpivpdqgc20Unsplash2" style="width: 449px; height: 287px; left: 370px; top: -74px; position: absolute" src="https://via.placeholder.com/449x287" />
+      <div class="Rectangle34624290" style="width: 786px; height: 160px; left: 0px; top: 0px; position: absolute; background: linear-gradient(90deg, #FC6212 42%, rgba(234, 88, 12, 0) 100%); border-radius: 12px"></div>
+      <div class="Group13" style="width: 134px; height: 134px; left: -37px; top: 70px; position: absolute">
+        <div class="Ellipse2" style="width: 67px; height: 67px; left: 2.68px; top: 65.66px; position: absolute; background: rgba(255, 166.80, 120.89, 0.20); border-radius: 9999px"></div>
+        <div class="Ellipse3" style="width: 134px; height: 134px; left: 0px; top: 0px; position: absolute; background: rgba(255, 166.80, 120.89, 0.20); border-radius: 9999px"></div>
+      </div>
+      <div class="Slogan" style="left: 32px; top: 32px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 5px; display: inline-flex">
+        <div class="HealthhubYourPersonalFitnessCoach" style="color: white; font-size: 16px; font-family: Roboto; font-weight: 800; word-wrap: break-word">HealthHub: Your Personal Fitness Coach</div>
+        <div class="TrackYourProgressAchieveYourGoals" style="align-self: stretch; color: white; font-size: 15px; font-family: Roboto; font-weight: 500; line-height: 22.50px; letter-spacing: 0.10px; word-wrap: break-word">Track Your Progress, Achieve Your Goals</div>
+      </div>
+    </div>
+    <div class="WorkoutCard" style="width: 251.67px; height: 168px; left: 403px; top: 321px; position: absolute">
+      <div class="Rectangle1294" style="width: 251.67px; height: 168px; left: 0px; top: 0px; position: absolute; background: #06B6D4; border-radius: 8px"></div>
+      <div class="Frame427319164" style="left: 16px; top: 16px; position: absolute; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+        <div class="Group12" style="width: 45px; height: 45px; position: relative">
+          <div class="Rectangle34624288" style="width: 45px; height: 45px; left: 0px; top: 0px; position: absolute; background: #0891B2; border-radius: 4px"></div>
+          <div class="IconsaxLinearWeight" style="width: 32px; height: 32px; left: 7px; top: 7px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div class="Vector" style="width: 28px; height: 16px; border: 1.50px white solid"></div>
+          </div>
+        </div>
+        <div class="Frame427319163" style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
+          <div class="Workout" style="color: white; font-size: 16px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Workout</div>
+          <div class="Hrs" style="color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">4 hrs</div>
+        </div>
+      </div>
+      <div class="Group6" style="width: 252px; height: 118px; left: 0px; top: 50px; position: absolute">
+        <div class="Vector" style="width: 250.63px; height: 84.51px; left: 0px; top: 0px; position: absolute; border: 1px rgba(8, 145, 178, 0.30) solid"></div>
+        <div class="Vector" style="width: 252px; height: 118px; left: 0px; top: 0px; position: absolute; background: linear-gradient(180deg, rgba(255, 255, 255, 0.20) 0%, rgba(255, 255, 255, 0) 100%); border: 1px rgba(8, 145, 178, 0.30) solid"></div>
+      </div>
+    </div>
+    <div class="CaloriesCard" style="width: 251.67px; height: 168px; left: 670.67px; top: 321px; position: absolute">
+      <div class="Rectangle1295" style="width: 251.67px; height: 168px; left: 0px; top: 0px; position: absolute; background: #F97316; border-radius: 8px"></div>
+      <div class="Frame427319165" style="left: 16px; top: 16px; position: absolute; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+        <div class="Group9" style="width: 45px; height: 45px; position: relative">
+          <div class="Rectangle34624289" style="width: 45px; height: 45px; left: 0px; top: 0px; position: absolute; background: #EA580C; border-radius: 4px"></div>
+          <div class="IconsaxLinearHuobitoken" style="width: 24px; height: 24px; left: 11px; top: 11px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <div class="Vector" style="width: 8.80px; height: 19.97px; border: 1.50px white solid"></div>
+            <div class="Vector" style="width: 7.09px; height: 12px; border: 1.50px white solid"></div>
+          </div>
+        </div>
+        <div class="Frame427319163" style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
+          <div class="Calories" style="color: white; font-size: 16px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Calories</div>
+          <div class="Kcl" style="color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">1800 kcl</div>
+        </div>
+      </div>
+      <div class="Group5" style="width: 251.32px; height: 108px; left: 0.33px; top: 60px; position: absolute">
+        <div class="Vector" style="width: 251.32px; height: 82.22px; left: 0px; top: 0px; position: absolute; border: 0.96px rgba(234, 88, 12, 0.30) solid"></div>
+        <div class="Vector" style="width: 251.32px; height: 108px; left: 0px; top: 0px; position: absolute; background: linear-gradient(180deg, rgba(255, 255, 255, 0.20) 0%, rgba(255, 255, 255, 0) 100%)"></div>
+      </div>
+    </div>
+    <div class="StepsCard" style="width: 251px; height: 168px; left: 938.33px; top: 321px; position: absolute">
+      <div class="Rectangle1296" style="width: 251.67px; height: 168px; left: 0px; top: 0px; position: absolute; background: #8B5CF6; border-radius: 8px"></div>
+      <div class="Frame427319166" style="left: 16.67px; top: 16px; position: absolute; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+        <div class="Group10" style="width: 45px; height: 45px; position: relative">
+          <div class="Rectangle34624289" style="width: 45px; height: 45px; left: 0px; top: 0px; position: absolute; background: #6D28D9; border-radius: 4px"></div>
+          <div class="Frame" style="width: 24px; height: 24px; left: 11px; top: 11px; position: absolute">
+            <div class="Vector" style="width: 18.33px; height: 20.33px; left: 3.50px; top: 1.67px; position: absolute; background: white"></div>
+          </div>
+        </div>
+        <div class="Frame427319163" style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
+          <div class="Steps" style="color: white; font-size: 16px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Steps</div>
+          <div class="Steps" style="color: white; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">2200 steps</div>
+        </div>
+      </div>
+      <div class="Group7" style="width: 252px; height: 130.34px; left: -0.33px; top: 38px; position: absolute">
+        <div class="Vector" style="width: 252px; height: 109.31px; left: 0px; top: 0px; position: absolute; border: 1px rgba(91, 33, 182, 0.30) solid"></div>
+        <div class="Vector" style="width: 252px; height: 130.34px; left: 0px; top: 0px; position: absolute; background: linear-gradient(180deg, rgba(255, 255, 255, 0.20) 0%, rgba(255, 255, 255, 0) 100%)"></div>
+      </div>
+    </div>
+    <div class="Frame16" style="height: 333px; padding-left: 32px; padding-right: 32px; padding-top: 24px; padding-bottom: 24px; left: 403px; top: 516px; position: absolute; background: white; box-shadow: 0px 4px 22px rgba(159.38, 159.38, 159.38, 0.15); border-radius: 12px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+      <div class="Group15" style="width: 716px; height: 285px; position: relative">
+        <div class="Frame427319175" style="width: 667px; height: 147px; left: 49px; top: 96px; position: absolute; justify-content: flex-start; align-items: flex-end; gap: 68px; display: inline-flex">
+          <div class="Frame427319168" style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+            <div class="Line6" style="width: 679px; height: 0px; border: 1px #E2E8F0 dotted"></div>
+            <div class="Line5" style="width: 679px; height: 0px; border: 1px #E2E8F0 dotted"></div>
+            <div class="Frame427319177" style="justify-content: flex-start; align-items: flex-end; gap: 8px; display: inline-flex">
+              <div class="Rectangle34624291" style="width: 7px; height: 53px; background: #22D3EE; border-radius: 4px"></div>
+              <div class="Rectangle34624293" style="width: 7px; height: 93px; background: #FB923C; border-radius: 4px"></div>
+              <div class="Rectangle34624294" style="width: 7px; height: 123px; background: #A78BFA; border-radius: 4px"></div>
+            </div>
+            <div class="Line4" style="width: 679px; height: 0px; border: 1px #E2E8F0 dotted"></div>
+            <div class="Line3" style="width: 679px; height: 0px; border: 1px #E2E8F0 dotted"></div>
+            <div class="Line2" style="width: 679px; height: 0px; border: 1px #E2E8F0 dotted"></div>
+            <div class="Line1" style="width: 679px; height: 0px; border: 1px #E2E8F0 dotted"></div>
+            <div class="Mon" style="color: #333333; font-size: 12px; font-family: Manrope; font-weight: 400; word-wrap: break-word">Mon</div>
+          </div>
+          <div class="Frame427319175" style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+            <div class="Frame427319177" style="justify-content: flex-start; align-items: flex-end; gap: 8px; display: inline-flex">
+              <div class="Rectangle34624291" style="width: 7px; height: 73px; background: #22D3EE; border-radius: 4px"></div>
+              <div class="Rectangle34624293" style="width: 7px; height: 53px; background: #FB923C; border-radius: 4px"></div>
+              <div class="Rectangle34624294" style="width: 7px; height: 83px; background: #A78BFA; border-radius: 4px"></div>
+            </div>
+            <div class="Tue" style="color: #333333; font-size: 12px; font-family: Manrope; font-weight: 400; word-wrap: break-word">Tue</div>
+          </div>
+          <div class="Frame427319176" style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+            <div class="Frame427319177" style="justify-content: flex-start; align-items: flex-end; gap: 8px; display: inline-flex">
+              <div class="Rectangle34624291" style="width: 7px; height: 123px; background: #22D3EE; border-radius: 4px"></div>
+              <div class="Rectangle34624293" style="width: 7px; height: 83px; background: #FB923C; border-radius: 4px"></div>
+              <div class="Rectangle34624294" style="width: 7px; height: 93px; background: #A78BFA; border-radius: 4px"></div>
+            </div>
+            <div class="Wed" style="color: #333333; font-size: 12px; font-family: Manrope; font-weight: 400; word-wrap: break-word">Wed</div>
+          </div>
+          <div class="Frame427319177" style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+            <div class="Frame427319177" style="justify-content: flex-start; align-items: flex-end; gap: 8px; display: inline-flex">
+              <div class="Rectangle34624291" style="width: 7px; height: 103px; background: #22D3EE; border-radius: 4px"></div>
+              <div class="Rectangle34624293" style="width: 7px; height: 123px; background: #FB923C; border-radius: 4px"></div>
+              <div class="Rectangle34624294" style="width: 7px; height: 73px; background: #A78BFA; border-radius: 4px"></div>
+            </div>
+            <div class="Thu" style="color: #333333; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Thu</div>
+          </div>
+          <div class="Frame427319178" style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+            <div class="Frame427319177" style="justify-content: flex-start; align-items: flex-end; gap: 8px; display: inline-flex">
+              <div class="Rectangle34624291" style="width: 7px; height: 53px; background: #22D3EE; border-radius: 4px"></div>
+              <div class="Rectangle34624293" style="width: 7px; height: 93px; background: #FB923C; border-radius: 4px"></div>
+              <div class="Rectangle34624294" style="width: 7px; height: 103px; background: #A78BFA; border-radius: 4px"></div>
+            </div>
+            <div class="Fri" style="color: #333333; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Fri</div>
+          </div>
+          <div class="Frame427319179" style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+            <div class="Frame427319177" style="justify-content: flex-start; align-items: flex-end; gap: 8px; display: inline-flex">
+              <div class="Rectangle34624291" style="width: 7px; height: 53px; background: #22D3EE; border-radius: 4px"></div>
+              <div class="Rectangle34624293" style="width: 7px; height: 93px; background: #FB923C; border-radius: 4px"></div>
+              <div class="Rectangle34624294" style="width: 7px; height: 103px; background: #A78BFA; border-radius: 4px"></div>
+            </div>
+            <div class="Sat" style="color: #333333; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Sat</div>
+          </div>
+          <div class="Frame427319180" style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+            <div class="Frame427319177" style="justify-content: flex-start; align-items: flex-end; gap: 8px; display: inline-flex">
+              <div class="Rectangle34624291" style="width: 7px; height: 53px; background: #22D3EE; border-radius: 4px"></div>
+              <div class="Rectangle34624293" style="width: 7px; height: 93px; background: #FB923C; border-radius: 4px"></div>
+              <div class="Rectangle34624294" style="width: 7px; height: 103px; background: #A78BFA; border-radius: 4px"></div>
+            </div>
+            <div class="Sun" style="color: #333333; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Sun</div>
+          </div>
+        </div>
+        <div class="Frame427319185" style="width: 338px; height: 285px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: space-between; align-items: flex-start; display: inline-flex">
+          <div class="GoalProgress" style="color: #333333; font-size: 16px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Goal Progress</div>
+          <div class="Frame427319181" style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+            <div style="color: #333333; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">100%</div>
+            <div style="color: #333333; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">80%</div>
+            <div style="color: #333333; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">60%</div>
+            <div style="color: #333333; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">40%</div>
+            <div style="color: #333333; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">20%</div>
+            <div style="color: #333333; font-size: 12px; font-family: Roboto; font-weight: 400; word-wrap: break-word">0%</div>
+          </div>
+          <div class="Frame427319184" style="padding-top: 10px; padding-left: 50px; padding-right: 50px; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex">
+            <div class="Frame427319182" style="justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+              <div class="Ellipse4" style="width: 8px; height: 8px; background: #06B6D4; border-radius: 9999px"></div>
+              <div class="Workout" style="color: #333333; font-size: 12px; font-family: Manrope; font-weight: 400; word-wrap: break-word">Workout</div>
+            </div>
+            <div class="Frame427319183" style="justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+              <div class="Ellipse4" style="width: 8px; height: 8px; background: #F97316; border-radius: 9999px"></div>
+              <div class="Calories" style="color: #333333; font-size: 12px; font-family: Manrope; font-weight: 400; word-wrap: break-word">Calories</div>
+            </div>
+            <div class="Frame427319184" style="justify-content: flex-start; align-items: center; gap: 8px; display: flex">
+              <div class="Ellipse4" style="width: 8px; height: 8px; background: #8B5CF6; border-radius: 9999px"></div>
+              <div class="Steps" style="color: #333333; font-size: 12px; font-family: Manrope; font-weight: 400; word-wrap: break-word">Steps</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="Frame427319198" style="padding-left: 10px; padding-right: 10px; padding-top: 5px; padding-bottom: 5px; border-radius: 8px; border: 1px #CBD5E1 solid; justify-content: flex-start; align-items: center; gap: 4px; display: inline-flex">
+        <div class="Weekly" style="color: #333333; font-size: 12px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Weekly</div>
+        <div class="ArrowDark" style="width: 24px; height: 24px; position: relative; transform: rotate(90deg); transform-origin: 0 0">
+          <div class="Vector" style="width: 5.66px; height: 8.49px; left: 9.34px; top: 7.76px; position: absolute; background: #475569"></div>
+        </div>
+      </div>
+    </div>
+    <div class="Line7" style="width: 89px; height: 0px; left: 320px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #F5F5F5 solid"></div>
+  </div>
+  <div class="WorkoutPage" style="width: 1280px; height: 832px; position: relative; background: #F5F5F5; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)">
+    <div class="NavigationBar" style="width: 960px; height: 89px; left: 320px; top: 0px; position: absolute; background: white"></div>
+    <div class="GoodEveningWelcomeMostafa" style="left: 336px; top: 15px; position: absolute"><span style="color: #333333; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">Good Evening!</span><span style="color: #333333; font-size: 24px; font-family: Inter; font-weight: 700; word-wrap: break-word">   Welcome, Mostafa!</span></div>
+    <div class="Search" style="width: 461px; height: 54.82px; left: 640px; top: 15px; position: absolute">
+      <div class="SearchBar" style="width: 461px; height: 54.82px; left: 0px; top: 0px; position: absolute; border-radius: 15px; border: 1px #9C9C9C solid"></div>
+      <div class="SearchForAWorkout" style="left: 110px; top: 12px; position: absolute; color: #333333; font-size: 25px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Search for a Workout!</div>
+      <div class="Search" style="width: 40.44px; height: 31.45px; left: 420.56px; top: 11.68px; position: absolute">
+        <div class="Vector" style="width: 9.69px; height: 8.91px; left: 7.42px; top: 5.77px; position: absolute; background: #BBBBBB"></div>
+        <div class="Vector" style="width: 32.35px; height: 25.16px; left: 4.05px; top: 3.15px; position: absolute; background: #BBBBBB"></div>
+      </div>
+    </div>
+    <div class="MaskGroup" style="width: 62px; height: 62px; left: 1202px; top: 6px; position: absolute">
+      <div class="Ellipse1" style="width: 62px; height: 62px; left: 0px; top: 0px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+      <img class="MyProfile1" style="width: 62.61px; height: 60.78px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/63x61" />
+    </div>
+    <div class="Vector" style="width: 47px; height: 43px; left: 1128px; top: 23px; position: absolute; background: #333333"></div>
+    <div class="Workout" style="width: 786px; height: 160px; left: 368px; top: 109px; position: absolute">
+      <img class="Deadliftfeature1" style="width: 286px; height: 160px; left: 415px; top: 0px; position: absolute" src="https://via.placeholder.com/286x160" />
+      <div class="HealthubSlogan" style="width: 786px; height: 160px; left: 0px; top: 0px; position: absolute; border-radius: 12px; overflow: hidden">
+        <div class="Rectangle34624290" style="width: 786px; height: 160px; left: 0px; top: 0px; position: absolute; background: linear-gradient(90deg, #FC6212 42%, rgba(234, 88, 12, 0) 100%); border-radius: 12px"></div>
+        <div class="Group13" style="width: 134px; height: 134px; left: -37px; top: 70px; position: absolute">
+          <div class="Ellipse2" style="width: 67px; height: 67px; left: 2.68px; top: 65.66px; position: absolute; background: rgba(255, 166.80, 120.89, 0.20); border-radius: 9999px"></div>
+          <div class="Ellipse3" style="width: 134px; height: 134px; left: 0px; top: 0px; position: absolute; background: rgba(255, 166.80, 120.89, 0.20); border-radius: 9999px"></div>
+        </div>
+        <div class="Slogan" style="left: 32px; top: 32px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 5px; display: inline-flex">
+          <div class="StartYourWorkoutToday" style="color: rgba(255, 193, 7, 0.20); font-size: 16px; font-family: Roboto; font-weight: 800; word-wrap: break-word">Start your workout today!</div>
+          <div class="JoinHealthhubTodayAndStartYourJourneyTowardsAHealthierStrongerAndMoreVibrantYou" style="align-self: stretch; color: white; font-size: 15px; font-family: Roboto; font-weight: 500; line-height: 22.50px; letter-spacing: 0.10px; word-wrap: break-word">Join HealthHub today and start your journey towards a healthier, stronger, and more vibrant you</div>
+        </div>
+      </div>
+    </div>
+    <div class="Line7" style="width: 89px; height: 0px; left: 320px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #F5F5F5 solid"></div>
+    <div class="Frame12" style="width: 380px; height: 343px; left: 367px; top: 278px; position: absolute; border-radius: 16px; overflow: hidden">
+      <div class="Rectangle8" style="width: 379.90px; height: 343.13px; left: 0px; top: 0.09px; position: absolute; background: linear-gradient(132deg, #FF4C01 0%, #FDC9B3 97%, rgba(255, 76, 1, 0.12) 100%), linear-gradient(150deg, #7C6DD7 0%, #C4BAFF 100%); border-radius: 16px; backdrop-filter: blur(42.40px)"></div>
+      <div class="LegsWorkout" style="left: 28.30px; top: 129.41px; position: absolute"><span style="color: white; font-size: 16px; font-family: Roboto; font-weight: 700; line-height: 19.20px; word-wrap: break-word">Legs <br/></span><span style="color: white; font-size: 24px; font-family: Roboto; font-weight: 700; line-height: 28.80px; word-wrap: break-word">Workout</span></div>
+      <div class="Group10" style="width: 195.61px; height: 64.72px; left: 27.35px; top: 26.62px; position: absolute">
+        <img class="UnsplashT9Nho5d0pc" style="width: 64.72px; height: 64.72px; left: 0px; top: 0px; position: absolute; border-radius: 19.04px; border: 1px #EA580C solid" src="https://via.placeholder.com/65x65" />
+        <div class="AdriannaLamb" style="left: 86.61px; top: 3.81px; position: absolute; color: white; font-size: 16px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Adrianna Lamb</div>
+        <div class="FitnessTrainer" style="left: 86.61px; top: 27.43px; position: absolute; color: white; font-size: 12px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Fitness Trainer</div>
+      </div>
+      <div class="Frame12" style="padding-left: 24px; padding-right: 24px; padding-top: 20px; padding-bottom: 20px; left: 34px; top: 250.98px; position: absolute; background: #F5F5F5; border-radius: 37.69px; justify-content: flex-start; align-items: flex-start; gap: 36px; display: inline-flex">
+        <div class="Frame427319206" style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div class="HealthiconsExerciseOutline" style="width: 24.23px; height: 24.27px; position: relative">
+            <div class="Vector" style="width: 22.21px; height: 12.14px; left: 1.01px; top: 18.20px; position: absolute; background: #1E293B"></div>
+          </div>
+          <div class="LowerBody" style="color: #1E293B; font-size: 16.16px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Lower Body</div>
+        </div>
+        <div class="Frame427319207" style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 12px; display: flex">
+          <div class="CarbonSkillLevelBasic" style="width: 24.23px; height: 24.27px; position: relative">
+            <div class="Vector" style="width: 18.17px; height: 16.18px; left: 3.03px; top: 5.06px; position: absolute; background: #1E293B"></div>
+          </div>
+          <div class="Beginner" style="color: #1E293B; font-size: 16.16px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Beginner</div>
+        </div>
+      </div>
+      <img class="Image183" style="width: 284.35px; height: 189.57px; left: 114.34px; top: 65px; position: absolute; box-shadow: 0px 49.59607696533203px 49.59607696533203px rgba(0, 0, 0, 0.20)" src="https://via.placeholder.com/284x190" />
+      <div class="Group14" style="width: 134px; height: 134px; left: 372.43px; top: 112.12px; position: absolute; transform: rotate(-165deg); transform-origin: 0 0">
+        <div class="Ellipse2" style="width: 67px; height: 67px; left: 14.41px; top: -64.12px; position: absolute; transform: rotate(-165deg); transform-origin: 0 0; background: #7C6DD7; border-radius: 9999px"></div>
+        <div class="Ellipse3" style="width: 134px; height: 134px; left: 0px; top: 0px; position: absolute; transform: rotate(-165deg); transform-origin: 0 0; background: rgba(124, 109, 215, 0.60); border-radius: 9999px"></div>
+      </div>
+    </div>
+    <div class="Frame427319216" style="left: 832px; top: 299px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 32px; display: inline-flex">
+      <div class="Frame427319198" style="width: 374px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+        <div class="Frame427319192" style="height: 230px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+          <div class="Frame427319191" style="height: 66px; padding: 16px; background: white; box-shadow: 0px 4px 22px rgba(139.19, 139.19, 139.19, 0.15); border-radius: 8px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+            <div class="Frame674" style="align-self: stretch; height: 34px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+              <div class="Frame427319148" style="align-self: stretch; height: 34px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 20px; display: flex">
+                <div class="Frame686" style="align-self: stretch; justify-content: flex-start; align-items: center; display: inline-flex">
+                  <div class="Frame671" style="flex: 1 1 0; height: 34px; justify-content: flex-start; align-items: center; gap: 16px; display: flex">
+                    <img class="Group1071" style="width: 43.11px; height: 32px" src="https://via.placeholder.com/43x32" />
+                    <div class="Frame670" style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+                      <div class="Stretch" style="width: 199px; color: #1E293B; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 14px; word-wrap: break-word">Stretch</div>
+                      <div class="At0800" style="width: 199px; color: #475569; font-size: 12px; font-family: Roboto; font-weight: 400; line-height: 12px; word-wrap: break-word">At 08:00</div>
+                    </div>
+                  </div>
+                  <div class="Frame427319208" style="justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+                    <div class="Frame427319197" style="padding-left: 8px; padding-right: 8px; padding-top: 4px; padding-bottom: 4px; background: #FFF7ED; border-radius: 30px; justify-content: flex-start; align-items: flex-start; display: flex">
+                      <div class="20Sets" style="color: #F97316; font-size: 12px; font-family: Roboto; font-weight: 500; word-wrap: break-word">10/20 Sets</div>
+                    </div>
+                    <div class="IconsaxBoldPlaycricle" style="width: 24px; height: 24px; position: relative">
+                      <div class="Vector" style="width: 21.49px; height: 21.42px; left: 1.26px; top: 1.29px; position: absolute; background: #F97316"></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="Frame427319192" style="height: 66px; padding: 16px; background: white; box-shadow: 0px 4px 22px rgba(139.19, 139.19, 139.19, 0.15); border-radius: 8px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+            <div class="Frame674" style="align-self: stretch; height: 34px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+              <div class="Frame427319148" style="align-self: stretch; height: 34px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 20px; display: flex">
+                <div class="Frame686" style="align-self: stretch; justify-content: flex-start; align-items: center; display: inline-flex">
+                  <div class="Frame671" style="flex: 1 1 0; height: 34px; justify-content: flex-start; align-items: center; gap: 16px; display: flex">
+                    <img class="Image97" style="width: 32.59px; height: 32px; transform: rotate(180deg); transform-origin: 0 0" src="https://via.placeholder.com/33x32" />
+                    <div class="Frame670" style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+                      <div class="BackStretch" style="width: 199px; color: #1E293B; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 14px; word-wrap: break-word">Back Stretch</div>
+                      <div class="At0900" style="width: 199px; color: #475569; font-size: 12px; font-family: Roboto; font-weight: 400; line-height: 12px; word-wrap: break-word">At 09:00</div>
+                    </div>
+                  </div>
+                  <div class="Frame427319210" style="justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+                    <div class="Frame427319197" style="padding-left: 8px; padding-right: 8px; padding-top: 4px; padding-bottom: 4px; background: #FFF7ED; border-radius: 30px; justify-content: flex-start; align-items: flex-start; display: flex">
+                      <div class="10Rounds" style="color: #F97316; font-size: 12px; font-family: Roboto; font-weight: 500; word-wrap: break-word">5/10 Rounds</div>
+                    </div>
+                    <div class="IconsaxBoldPlaycricle" style="width: 24px; height: 24px; position: relative">
+                      <div class="Vector" style="width: 21.49px; height: 21.42px; left: 1.26px; top: 1.29px; position: absolute; background: #F97316"></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="Frame427319193" style="height: 66px; padding: 16px; background: white; box-shadow: 0px 4px 22px rgba(139.19, 139.19, 139.19, 0.15); border-radius: 8px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+            <div class="Frame674" style="align-self: stretch; height: 34px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+              <div class="Frame427319148" style="align-self: stretch; height: 34px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 20px; display: flex">
+                <div class="Frame686" style="align-self: stretch; justify-content: flex-start; align-items: center; display: inline-flex">
+                  <div class="Frame671" style="flex: 1 1 0; height: 34px; justify-content: flex-start; align-items: center; gap: 16px; display: flex">
+                    <img class="Image98" style="width: 34.57px; height: 32px; transform: rotate(180deg); transform-origin: 0 0" src="https://via.placeholder.com/35x32" />
+                    <div class="Frame670" style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+                      <div class="Yoga" style="width: 199px; color: #1E293B; font-size: 14px; font-family: Roboto; font-weight: 500; line-height: 14px; word-wrap: break-word">Yoga</div>
+                      <div class="At1000" style="width: 199px; color: #475569; font-size: 12px; font-family: Roboto; font-weight: 400; line-height: 12px; word-wrap: break-word">At 10:00</div>
+                    </div>
+                  </div>
+                  <div class="Frame427319211" style="justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+                    <div class="Frame427319197" style="padding-left: 8px; padding-right: 8px; padding-top: 4px; padding-bottom: 4px; background: #FFF7ED; border-radius: 30px; justify-content: flex-start; align-items: flex-start; display: flex">
+                      <div class="20Min" style="color: #F97316; font-size: 12px; font-family: Roboto; font-weight: 500; word-wrap: break-word">04/20 min</div>
+                    </div>
+                    <div class="IconsaxBoldPlaycricle" style="width: 24px; height: 24px; position: relative">
+                      <div class="Vector" style="width: 21.49px; height: 21.42px; left: 1.26px; top: 1.29px; position: absolute; background: #F97316"></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="Memberships" style="width: 312px; height: 204px; left: 904px; top: 606px; position: absolute">
+      <div class="Rectangle34624295" style="width: 312px; height: 204px; left: 0px; top: 0px; position: absolute; background: #007BFF; border-radius: 32px"></div>
+      <div class="OffOnMemberships" style="left: 74px; top: 14px; position: absolute; color: rgba(255, 193, 7, 0.20); font-size: 15px; font-family: Roboto; font-weight: 600; line-height: 21px; word-wrap: break-word">50% off on Memberships!</div>
+      <div class="UnlockUnlimitedTrainingsWithMorePersonalTrainersForYourWorkoutPlans" style="width: 223px; height: 65px; left: 46px; top: 49px; position: absolute; color: rgba(255, 193, 7, 0.20); font-size: 15px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Unlock unlimited trainings with more personal trainers for your workout plans!</div>
+      <div class="JoinMembership" style="width: 140px; height: 34px; left: 88px; top: 128px; position: absolute">
+        <div class="Rectangle34624296" style="width: 140px; height: 34px; left: 0px; top: 0px; position: absolute; background: #FFC107; border-radius: 30px"></div>
+        <div class="JoinUsNow" style="left: 26px; top: 7px; position: absolute; color: rgba(255, 99, 71, 0.20); font-size: 15px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Join Us Now!</div>
+      </div>
+    </div>
+  </div>
+  <div class="SideBar" style="width: 325px; height: 832px; padding: 24px; background: white; box-shadow: 0px 5px 22px 4px rgba(0, 0, 0, 0.02); border-right: 1px #E2E8F0 solid; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+    <div class="Frame16" style="align-self: stretch; flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div class="Frame15" style="align-self: stretch; flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: flex">
+        <div class="AppLogo" style="align-self: stretch; height: 54px; padding-top: 8px; padding-bottom: 24px; padding-left: 8px; padding-right: 8px; background: white; border-bottom: 1px #E2E8F0 solid; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: flex">
+          <div class="Frame812852" style="align-self: stretch; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+            <div class="Fitness"><span style="color: #007BFF; font-size: 32px; font-family: Roboto; font-weight: 800; line-height: 22px; word-wrap: break-word">Health</span><span style="color: #F97316; font-size: 32px; font-family: Roboto; font-weight: 800; line-height: 22px; word-wrap: break-word">Hub</span></div>
+          </div>
+        </div>
+        <div class="Frame12" style="align-self: stretch; flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+          <div class="Button" style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 12px; padding-bottom: 12px; background: white; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+            <div class="Dashbaord" style="width: 24px; height: 24px; padding: 2px; justify-content: center; align-items: center; display: flex">
+              <div class="Vector" style="width: 20px; height: 20px; background: white; border: 1px #475569 solid"></div>
+            </div>
+            <div class="Overview" style="flex: 1 1 0; color: #333333; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Overview</div>
+          </div>
+          <div class="Button" style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 12px; padding-bottom: 12px; background: #007BFF; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+            <div class="WorkoutBold" style="width: 24px; height: 24px; padding-left: 0.75px; padding-right: 0.75px; padding-top: 5.25px; padding-bottom: 5.25px; justify-content: center; align-items: center; display: flex">
+              <div class="Vector" style="width: 22.50px; height: 13.50px; background: white"></div>
+            </div>
+            <div class="Overview" style="flex: 1 1 0; color: white; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Workout</div>
+          </div>
+          <div class="Button" style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 12px; padding-bottom: 12px; background: white; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+            <div class="DietPlan" style="width: 24px; height: 24px; position: relative">
+              <div class="Vector" style="width: 21px; height: 18.04px; left: 1px; top: 3.96px; position: absolute; border: 1.50px #475569 solid"></div>
+              <div class="Vector" style="width: 16.30px; height: 19.95px; left: 6.70px; top: 2.05px; position: absolute; border: 1.50px #475569 solid"></div>
+            </div>
+            <div class="Overview" style="flex: 1 1 0; color: #333333; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Diet Plan</div>
+          </div>
+          <div class="Button" style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 12px; padding-bottom: 12px; background: white; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+            <div class="Goal" style="width: 24px; height: 24px; position: relative">
+              <div class="Vector" style="width: 15.48px; height: 17.01px; left: 4.26px; top: 5px; position: absolute; border: 1.50px #475569 solid"></div>
+              <div class="Vector" style="width: 11px; height: 14.86px; left: 6.50px; top: 2px; position: absolute; border: 1.50px #475569 solid"></div>
+            </div>
+            <div class="Overview" style="flex: 1 1 0; color: #333333; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Goals</div>
+          </div>
+          <div class="Button" style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 12px; padding-bottom: 12px; background: white; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+            <div class="Schedule" style="width: 24px; height: 24px; position: relative">
+              <div class="Vector" style="width: 18px; height: 20px; left: 3px; top: 2px; position: absolute; border: 1.50px #475569 solid"></div>
+              <div class="Vector" style="width: 7.41px; height: 3px; left: 8.29px; top: 13.70px; position: absolute; border: 2px #475569 solid"></div>
+            </div>
+            <div class="Overview" style="flex: 1 1 0; color: #333333; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">My Schedule</div>
+          </div>
+          <div class="Button" style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 12px; padding-bottom: 12px; background: white; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+            <div class="Progres" style="width: 24px; height: 24px; padding: 2px; flex-direction: column; justify-content: center; align-items: flex-start; display: inline-flex">
+              <div class="Vector" style="width: 18px; height: 20px; border: 1.50px #475569 solid"></div>
+              <div class="Vector" style="width: 20px; height: 0px; border: 1.50px #475569 solid"></div>
+            </div>
+            <div class="Overview" style="flex: 1 1 0; color: #333333; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Progress</div>
+            <div class="ArrowDark" style="width: 24px; height: 24px; padding-top: 7.76px; padding-bottom: 7.76px; justify-content: center; align-items: center; display: flex">
+              <div class="Vector" style="width: 5.66px; height: 8.49px; background: #475569"></div>
+            </div>
+          </div>
+          <div class="Frame427319141" style="width: 192px; flex: 1 1 0"></div>
+        </div>
+      </div>
+    </div>
+    <div class="Component2" style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 12px; padding-bottom: 12px; background: white; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+      <div class="Help" style="width: 24px; height: 24px; padding: 2px; justify-content: center; align-items: center; display: flex">
+        <div class="Vector" style="width: 20px; height: 20px; background: #475569"></div>
+      </div>
+      <div class="Overview" style="flex: 1 1 0; color: #475569; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Help</div>
+    </div>
+    <div class="Button" style="align-self: stretch; padding: 16px; background: white; border-top: 1px #E2E8F0 solid; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+      <div class="Logout" style="width: 24px; height: 24px; padding-top: 2.49px; padding-bottom: 2.47px; padding-left: 2.50px; padding-right: 2.50px; justify-content: center; align-items: center; display: flex">
+        <div class="Vector" style="width: 19px; height: 19.04px; border: 1.50px #475569 solid"></div>
+      </div>
+      <div class="Overview" style="flex: 1 1 0; color: #333333; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Logout</div>
+    </div>
+  </div>
+  <div class="DietPlanPage" style="width: 1280px; height: 832px; position: relative; background: #F5F5F5; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)">
+    <div class="NavigationBar" style="width: 960px; height: 89px; left: 325px; top: 3px; position: absolute; background: white"></div>
+    <div class="GoodEveningWelcomeMostafa" style="left: 399px; top: 15px; position: absolute"><span style="color: #333333; font-size: 16px; font-family: Inter; font-weight: 700; word-wrap: break-word">Good Evening!</span><span style="color: #333333; font-size: 24px; font-family: Inter; font-weight: 700; word-wrap: break-word">   Welcome, Mostafa!</span></div>
+    <div class="Search" style="width: 461px; height: 54.82px; left: 640px; top: 15px; position: absolute">
+      <div class="SearchBar" style="width: 461px; height: 54.82px; left: 0px; top: 0px; position: absolute; border-radius: 15px; border: 1px #9C9C9C solid"></div>
+      <div class="SearchForAWorkout" style="left: 110px; top: 12px; position: absolute; color: #333333; font-size: 25px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Search for a Workout!</div>
+      <div class="Search" style="width: 40.44px; height: 31.45px; left: 420.56px; top: 11.68px; position: absolute">
+        <div class="Vector" style="width: 9.69px; height: 8.91px; left: 7.42px; top: 5.77px; position: absolute; background: #BBBBBB"></div>
+        <div class="Vector" style="width: 32.35px; height: 25.16px; left: 4.05px; top: 3.15px; position: absolute; background: #BBBBBB"></div>
+      </div>
+    </div>
+    <div class="MaskGroup" style="width: 62px; height: 62px; left: 1202px; top: 6px; position: absolute">
+      <div class="Ellipse1" style="width: 62px; height: 62px; left: 0px; top: 0px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+      <img class="MyProfile1" style="width: 62.61px; height: 60.78px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/63x61" />
+    </div>
+    <div class="Vector" style="width: 47px; height: 43px; left: 1128px; top: 23px; position: absolute; background: #333333"></div>
+    <div class="HealthubSlogan" style="width: 786px; height: 160px; left: 368px; top: 110px; position: absolute; border-radius: 12px; overflow: hidden; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <img class="MealPrepPic1" style="width: 287px; height: 287px" src="https://via.placeholder.com/287x287" />
+      <div class="Rectangle34624290" style="width: 786px; height: 160px; background: linear-gradient(90deg, #FC6212 42%, rgba(234, 88, 12, 0) 100%); border-radius: 12px"></div>
+      <div class="Slogan" style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 5px; display: inline-flex">
+        <div class="StartYourJourneyToAHealthierYou" style="color: rgba(255, 193, 7, 0.20); font-size: 24px; font-family: Roboto; font-weight: 800; word-wrap: break-word">Start Your Journey to a Healthier You</div>
+        <div class="ReadyToTakeControlOfYourHealthAndAchieveYourFitnessGoalsOurPersonalizedDietPlansAreDesignedToHelpYouMakeSustainableChangesToYourEatingHabitsAndNourishYourBody" style="width: 350px; color: white; font-size: 15px; font-family: Roboto; font-weight: 500; line-height: 22.50px; letter-spacing: 0.10px; word-wrap: break-word">Ready to take control of your health and achieve your fitness goals? Our personalized diet plans are designed to help you make sustainable changes to your eating habits and nourish your body. </div>
+      </div>
+      <div class="Group13" style="width: 134px; height: 134px; position: relative">
+        <div class="Ellipse2" style="width: 67px; height: 67px; left: 2.68px; top: 65.66px; position: absolute; background: rgba(255, 166.80, 120.89, 0.20); border-radius: 9999px"></div>
+        <div class="Ellipse3" style="width: 134px; height: 134px; left: 0px; top: 0px; position: absolute; background: rgba(255, 166.80, 120.89, 0.20); border-radius: 9999px"></div>
+      </div>
+    </div>
+    <div class="Frame427319155" style="width: 786px; left: 368px; top: 288px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+      <div class="Frame427319153" style="height: 19px; padding-left: 16px; padding-right: 16px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="Food" style="color: #475569; font-size: 14px; font-family: Manrope; font-weight: 700; word-wrap: break-word">Food</div>
+      </div>
+      <div class="Frame427319153" style="height: 19px; padding-left: 16px; padding-right: 16px; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div class="Meal" style="color: #475569; font-size: 14px; font-family: Manrope; font-weight: 700; word-wrap: break-word">Meal</div>
+      </div>
+      <div class="Frame427319153" style="height: 19px; padding-left: 16px; padding-right: 16px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="Calories" style="color: #475569; font-size: 14px; font-family: Manrope; font-weight: 700; word-wrap: break-word">Calories</div>
+      </div>
+      <div class="Frame427319153" style="flex: 1 1 0; height: 19px; padding-left: 16px; padding-right: 16px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="Priorities" style="color: #475569; font-size: 14px; font-family: Manrope; font-weight: 700; word-wrap: break-word">Priorities</div>
+      </div>
+      <div class="Frame427319153" style="flex: 1 1 0; height: 19px; padding-left: 16px; padding-right: 16px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="Carbs" style="color: #475569; font-size: 14px; font-family: Manrope; font-weight: 700; word-wrap: break-word">Carbs</div>
+      </div>
+    </div>
+    <div class="Line7" style="width: 89px; height: 0px; left: 320px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #F5F5F5 solid"></div>
+    <div class="Memberships" style="width: 312px; height: 204px; left: 904px; top: 614px; position: absolute">
+      <div class="Rectangle34624295" style="width: 312px; height: 204px; left: 0px; top: 0px; position: absolute; background: #007BFF; border-radius: 32px"></div>
+      <div class="OffOnMemberships" style="left: 74px; top: 14px; position: absolute; color: rgba(255, 193, 7, 0.20); font-size: 15px; font-family: Roboto; font-weight: 600; line-height: 21px; word-wrap: break-word">50% off on Memberships!</div>
+      <div class="UnlockUnlimitedTrainingsWithMorePersonalTrainersForYourWorkoutPlans" style="width: 223px; height: 65px; left: 46px; top: 49px; position: absolute; color: rgba(255, 193, 7, 0.20); font-size: 15px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Unlock unlimited trainings with more personal trainers for your workout plans!</div>
+      <div class="JoinMembership" style="width: 140px; height: 34px; left: 88px; top: 128px; position: absolute">
+        <div class="Rectangle34624296" style="width: 140px; height: 34px; left: 0px; top: 0px; position: absolute; background: #FFC107; border-radius: 30px"></div>
+        <div class="JoinUsNow" style="left: 26px; top: 7px; position: absolute; color: rgba(255, 99, 71, 0.20); font-size: 15px; font-family: Roboto; font-weight: 400; line-height: 21px; word-wrap: break-word">Join Us Now!</div>
+      </div>
+    </div>
+    <div class="SideBar" style="width: 325px; height: 832px; padding: 24px; left: 0px; top: -4px; position: absolute; background: white; box-shadow: 0px 5px 22px 4px rgba(0, 0, 0, 0.02); border-right: 1px #E2E8F0 solid; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+      <div class="Frame16" style="align-self: stretch; flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div class="Frame15" style="align-self: stretch; flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: flex">
+          <div class="AppLogo" style="align-self: stretch; height: 54px; padding-top: 8px; padding-bottom: 24px; padding-left: 8px; padding-right: 8px; background: white; border-bottom: 1px #E2E8F0 solid; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: flex">
+            <div class="Frame812852" style="align-self: stretch; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+              <div class="Fitness"><span style="color: #007BFF; font-size: 32px; font-family: Roboto; font-weight: 800; line-height: 22px; word-wrap: break-word">Health</span><span style="color: #F97316; font-size: 32px; font-family: Roboto; font-weight: 800; line-height: 22px; word-wrap: break-word">Hub</span></div>
+            </div>
+          </div>
+          <div class="Frame12" style="align-self: stretch; flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+            <div class="Button" style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 12px; padding-bottom: 12px; background: white; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+              <div class="Dashbaord" style="width: 24px; height: 24px; padding: 2px; justify-content: center; align-items: center; display: flex">
+                <div class="Vector" style="width: 20px; height: 20px; background: white; border: 1px #475569 solid"></div>
+              </div>
+              <div class="Overview" style="flex: 1 1 0; color: #333333; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Overview</div>
+            </div>
+            <div class="Button" style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 12px; padding-bottom: 12px; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+              <div class="WorkoutBold" style="width: 24px; height: 24px; padding-left: 0.75px; padding-right: 0.75px; padding-top: 5.25px; padding-bottom: 5.25px; justify-content: center; align-items: center; display: flex">
+                <div class="Vector" style="width: 22.50px; height: 13.50px; background: #333333"></div>
+              </div>
+              <div class="Overview" style="flex: 1 1 0; color: #333333; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Workout</div>
+            </div>
+            <div class="Button" style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 12px; padding-bottom: 12px; background: #007BFF; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+              <div class="DietPlanLogo" style="width: 21.30px; height: 20.04px; position: relative">
+                <div class="Vector" style="width: 21px; height: 18.04px; left: 0px; top: 2px; position: absolute; border: 1px white solid"></div>
+                <div class="Vector" style="width: 16.30px; height: 19.95px; left: 5px; top: 0px; position: absolute; border: 1px white solid"></div>
+              </div>
+              <div class="DietPlan" style="flex: 1 1 0; color: white; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Diet Plan</div>
+            </div>
+            <div class="Button" style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 12px; padding-bottom: 12px; background: white; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+              <div class="Goal" style="width: 24px; height: 24px; position: relative">
+                <div class="Vector" style="width: 15.48px; height: 17.01px; left: 4.26px; top: 5px; position: absolute; border: 1.50px #475569 solid"></div>
+                <div class="Vector" style="width: 11px; height: 14.86px; left: 6.50px; top: 2px; position: absolute; border: 1.50px #475569 solid"></div>
+              </div>
+              <div class="Overview" style="flex: 1 1 0; color: #333333; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Goals</div>
+            </div>
+            <div class="Button" style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 12px; padding-bottom: 12px; background: white; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+              <div class="Schedule" style="width: 24px; height: 24px; position: relative">
+                <div class="Vector" style="width: 18px; height: 20px; left: 3px; top: 2px; position: absolute; border: 1.50px #475569 solid"></div>
+                <div class="Vector" style="width: 7.41px; height: 3px; left: 8.29px; top: 13.70px; position: absolute; border: 2px #475569 solid"></div>
+              </div>
+              <div class="Overview" style="flex: 1 1 0; color: #333333; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">My Schedule</div>
+            </div>
+            <div class="Button" style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 12px; padding-bottom: 12px; background: white; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+              <div class="Progres" style="width: 24px; height: 24px; padding: 2px; flex-direction: column; justify-content: center; align-items: flex-start; display: inline-flex">
+                <div class="Vector" style="width: 18px; height: 20px; border: 1.50px #475569 solid"></div>
+                <div class="Vector" style="width: 20px; height: 0px; border: 1.50px #475569 solid"></div>
+              </div>
+              <div class="Overview" style="flex: 1 1 0; color: #333333; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Progress</div>
+              <div class="ArrowDark" style="width: 24px; height: 24px; padding-top: 7.76px; padding-bottom: 7.76px; justify-content: center; align-items: center; display: flex">
+                <div class="Vector" style="width: 5.66px; height: 8.49px; background: #475569"></div>
+              </div>
+            </div>
+            <div class="Frame427319141" style="width: 192px; flex: 1 1 0"></div>
+          </div>
+        </div>
+      </div>
+      <div class="Component2" style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 12px; padding-bottom: 12px; background: white; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+        <div class="Help" style="width: 24px; height: 24px; padding: 2px; justify-content: center; align-items: center; display: flex">
+          <div class="Vector" style="width: 20px; height: 20px; background: #475569"></div>
+        </div>
+        <div class="Overview" style="flex: 1 1 0; color: #475569; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Help</div>
+      </div>
+      <div class="Button" style="align-self: stretch; padding: 16px; background: white; border-top: 1px #E2E8F0 solid; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+        <div class="Logout" style="width: 24px; height: 24px; padding-top: 2.49px; padding-bottom: 2.47px; padding-left: 2.50px; padding-right: 2.50px; justify-content: center; align-items: center; display: flex">
+          <div class="Vector" style="width: 19px; height: 19.04px; border: 1.50px #475569 solid"></div>
+        </div>
+        <div class="Overview" style="flex: 1 1 0; color: #333333; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Logout</div>
+      </div>
+    </div>
+    <div class="Frame427319178" style="width: 786px; left: 368px; top: 318px; position: absolute; background: white; box-shadow: 0px 4px 22px rgba(201.88, 201.88, 201.88, 0.15); border-radius: 4px; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+      <div class="Frame427319151" style="width: 160px; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame427319150" style="justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+          <div class="Burger" style="width: 32px; height: 32px; background: #FFEDD5; border-radius: 50px; overflow: hidden; border: 0.50px #FDBA74 solid; justify-content: center; align-items: center; display: flex">
+            <img class="Meat2" style="width: 32px; height: 32px; border-radius: 50px" src="https://via.placeholder.com/32x32" />
+          </div>
+          <div class="Meat" style="width: 86px; color: #475569; font-size: 14px; font-family: Manrope; font-weight: 600; word-wrap: break-word">Meat</div>
+        </div>
+      </div>
+      <div class="Frame427319151" style="flex: 1 1 0; align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame427319150" style="align-self: stretch; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+          <div class="BreakFast" style="flex: 1 1 0; color: #475569; font-size: 14px; font-family: Manrope; font-weight: 500; word-wrap: break-word">Break Fast</div>
+        </div>
+      </div>
+      <div class="Frame427319151" style="flex: 1 1 0; align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame427319150" style="align-self: stretch; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+          <div class="Receiving" style="flex: 1 1 0; color: #475569; font-size: 14px; font-family: Manrope; font-weight: 500; word-wrap: break-word">Receiving</div>
+        </div>
+      </div>
+      <div class="Frame427319151" style="flex: 1 1 0; align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame427319150" style="align-self: stretch; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+          <div class="00Am" style="flex: 1 1 0; color: #475569; font-size: 14px; font-family: Manrope; font-weight: 500; word-wrap: break-word">08:00 AM</div>
+        </div>
+      </div>
+      <div class="Frame427319151" style="flex: 1 1 0; align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame427319150" style="align-self: stretch; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+          <div class="Gm" style="flex: 1 1 0; color: #475569; font-size: 14px; font-family: Manrope; font-weight: 500; word-wrap: break-word">20 gm</div>
+        </div>
+      </div>
+    </div>
+    <div class="Frame427319182" style="width: 786px; left: 368px; top: 388px; position: absolute; background: white; box-shadow: 0px 4px 22px rgba(201.88, 201.88, 201.88, 0.15); border-radius: 4px; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+      <div class="Frame427319151" style="width: 160px; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame427319150" style="justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+          <div class="Cookies" style="width: 32px; height: 32px; background: #FFEDD5; border-radius: 50px; overflow: hidden; border: 0.50px #FDBA74 solid; justify-content: center; align-items: center; display: flex">
+            <img class="Cookies1" style="width: 32px; height: 32px; border-radius: 50px" src="https://via.placeholder.com/32x32" />
+          </div>
+          <div class="Cookies" style="width: 86px; color: #475569; font-size: 14px; font-family: Manrope; font-weight: 600; word-wrap: break-word">Cookies</div>
+        </div>
+      </div>
+      <div class="Frame427319151" style="flex: 1 1 0; align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame427319150" style="align-self: stretch; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+          <div class="BreakFast" style="flex: 1 1 0; color: #475569; font-size: 14px; font-family: Manrope; font-weight: 500; word-wrap: break-word">Break Fast</div>
+        </div>
+      </div>
+      <div class="Frame427319151" style="flex: 1 1 0; align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame427319150" style="align-self: stretch; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+          <div class="Receiving" style="flex: 1 1 0; color: #475569; font-size: 14px; font-family: Manrope; font-weight: 500; word-wrap: break-word">Receiving</div>
+        </div>
+      </div>
+      <div class="Frame427319151" style="flex: 1 1 0; align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame427319150" style="align-self: stretch; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+          <div class="00Am" style="flex: 1 1 0; color: #475569; font-size: 14px; font-family: Manrope; font-weight: 500; word-wrap: break-word">08:00 AM</div>
+        </div>
+      </div>
+      <div class="Frame427319151" style="flex: 1 1 0; align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame427319150" style="align-self: stretch; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+          <div class="Gm" style="flex: 1 1 0; color: #475569; font-size: 14px; font-family: Manrope; font-weight: 500; word-wrap: break-word">30 gm</div>
+        </div>
+      </div>
+    </div>
+    <div class="Frame427319177" style="width: 786px; left: 368px; top: 458px; position: absolute; background: white; box-shadow: 0px 4px 22px rgba(201.88, 201.88, 201.88, 0.15); border-radius: 4px; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+      <div class="Frame427319151" style="width: 160px; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame427319150" style="justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+          <div class="Burger" style="width: 32px; height: 32px; background: #FFEDD5; border-radius: 50px; overflow: hidden; border: 0.50px #FDBA74 solid; justify-content: center; align-items: center; display: flex">
+            <img class="Burger1" style="width: 32px; height: 32px" src="https://via.placeholder.com/32x32" />
+          </div>
+          <div class="Burger" style="width: 86px; color: #475569; font-size: 14px; font-family: Manrope; font-weight: 600; word-wrap: break-word">Burger</div>
+        </div>
+      </div>
+      <div class="Frame427319151" style="flex: 1 1 0; align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame427319150" style="align-self: stretch; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+          <div class="Lunch" style="flex: 1 1 0; color: #475569; font-size: 14px; font-family: Manrope; font-weight: 500; word-wrap: break-word">Lunch</div>
+        </div>
+      </div>
+      <div class="Frame427319151" style="flex: 1 1 0; align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame427319150" style="align-self: stretch; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+          <div class="Receiving" style="flex: 1 1 0; color: #475569; font-size: 14px; font-family: Manrope; font-weight: 500; word-wrap: break-word">Receiving</div>
+        </div>
+      </div>
+      <div class="Frame427319151" style="flex: 1 1 0; align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame427319150" style="align-self: stretch; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+          <div class="00Am" style="flex: 1 1 0; color: #475569; font-size: 14px; font-family: Manrope; font-weight: 500; word-wrap: break-word">01:00 AM</div>
+        </div>
+      </div>
+      <div class="Frame427319151" style="flex: 1 1 0; align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame427319150" style="align-self: stretch; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+          <div class="Gm" style="flex: 1 1 0; color: #475569; font-size: 14px; font-family: Manrope; font-weight: 500; word-wrap: break-word">30 gm</div>
+        </div>
+      </div>
+    </div>
+    <div class="Frame427319184" style="width: 786px; left: 368px; top: 528px; position: absolute; background: white; box-shadow: 0px 4px 22px rgba(201.88, 201.88, 201.88, 0.15); border-radius: 4px; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+      <div class="Frame427319151" style="width: 160px; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame427319150" style="justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+          <div class="EggBacon" style="width: 32px; height: 32px; background: #FFEDD5; border-radius: 50px; overflow: hidden; border: 0.50px #FDBA74 solid; justify-content: center; align-items: center; display: flex">
+            <img class="EggAndBacon1" style="width: 32px; height: 32px; border-radius: 50px" src="https://via.placeholder.com/32x32" />
+          </div>
+          <div class="EggBacon" style="width: 86px; color: #475569; font-size: 14px; font-family: Manrope; font-weight: 600; word-wrap: break-word">Egg & Bacon</div>
+        </div>
+      </div>
+      <div class="Frame427319151" style="flex: 1 1 0; align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame427319150" style="align-self: stretch; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+          <div class="Dinner" style="flex: 1 1 0; color: #475569; font-size: 14px; font-family: Manrope; font-weight: 500; word-wrap: break-word">Dinner</div>
+        </div>
+      </div>
+      <div class="Frame427319151" style="flex: 1 1 0; align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame427319150" style="align-self: stretch; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+          <div class="Receiving" style="flex: 1 1 0; color: #475569; font-size: 14px; font-family: Manrope; font-weight: 500; word-wrap: break-word">Receiving</div>
+        </div>
+      </div>
+      <div class="Frame427319151" style="flex: 1 1 0; align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame427319150" style="align-self: stretch; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+          <div class="00Pm" style="flex: 1 1 0; color: #475569; font-size: 14px; font-family: Manrope; font-weight: 500; word-wrap: break-word">10:00 PM</div>
+        </div>
+      </div>
+      <div class="Frame427319151" style="flex: 1 1 0; align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 10px; padding-bottom: 10px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div class="Frame427319150" style="align-self: stretch; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+          <div class="Gm" style="flex: 1 1 0; color: #475569; font-size: 14px; font-family: Manrope; font-weight: 500; word-wrap: break-word">70 gm</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="UserProfile" style="width: 1280px; height: 832px; position: relative; background: #F5F5F5; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)">
+    <div class="MaskGroup" style="width: 149px; height: 149px; left: 670px; top: 146px; position: absolute">
+      <div class="Ellipse1" style="width: 149px; height: 149px; left: 0px; top: 0px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+      <img class="MyProfile1" style="width: 150.46px; height: 146.08px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/150x146" />
+    </div>
+    <div class="Line7" style="width: 89px; height: 0px; left: 320px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #F5F5F5 solid"></div>
+    <div class="SideBar" style="width: 325px; height: 836px; padding: 24px; left: 0px; top: -4px; position: absolute; background: white; box-shadow: 0px 5px 22px 4px rgba(0, 0, 0, 0.02); border-right: 1px #E2E8F0 solid; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
+      <div class="Frame16" style="align-self: stretch; flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div class="Frame15" style="align-self: stretch; flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: flex">
+          <div class="AppLogo" style="align-self: stretch; height: 54px; padding-top: 8px; padding-bottom: 24px; padding-left: 8px; padding-right: 8px; background: white; border-bottom: 1px #E2E8F0 solid; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: flex">
+            <div class="Frame812852" style="align-self: stretch; justify-content: center; align-items: center; gap: 16px; display: inline-flex">
+              <div class="Fitness"><span style="color: #007BFF; font-size: 32px; font-family: Roboto; font-weight: 800; line-height: 22px; word-wrap: break-word">Health</span><span style="color: #F97316; font-size: 32px; font-family: Roboto; font-weight: 800; line-height: 22px; word-wrap: break-word">Hub</span></div>
+            </div>
+          </div>
+          <div class="Frame12" style="align-self: stretch; flex: 1 1 0; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+            <div class="Button" style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 12px; padding-bottom: 12px; background: white; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+              <div class="Dashbaord" style="width: 24px; height: 24px; padding: 2px; justify-content: center; align-items: center; display: flex">
+                <div class="Vector" style="width: 20px; height: 20px; background: white; border: 1px #475569 solid"></div>
+              </div>
+              <div class="Overview" style="flex: 1 1 0; color: #333333; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Overview</div>
+            </div>
+            <div class="Button" style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 12px; padding-bottom: 12px; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+              <div class="WorkoutBold" style="width: 24px; height: 24px; padding-left: 0.75px; padding-right: 0.75px; padding-top: 5.25px; padding-bottom: 5.25px; justify-content: center; align-items: center; display: flex">
+                <div class="Vector" style="width: 22.50px; height: 13.50px; background: #333333"></div>
+              </div>
+              <div class="Overview" style="flex: 1 1 0; color: #333333; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Workout</div>
+            </div>
+            <div class="Button" style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 12px; padding-bottom: 12px; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+              <div class="DietPlanLogo" style="width: 21.30px; height: 20.04px; position: relative">
+                <div class="Vector" style="width: 21px; height: 18.04px; left: 0px; top: 2px; position: absolute; border: 1px #475569 solid"></div>
+                <div class="Vector" style="width: 16.30px; height: 19.95px; left: 5px; top: 0px; position: absolute; border: 1px #475569 solid"></div>
+              </div>
+              <div class="DietPlan" style="flex: 1 1 0; color: #333333; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Diet Plan</div>
+            </div>
+            <div class="Button" style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 12px; padding-bottom: 12px; background: white; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+              <div class="Goal" style="width: 24px; height: 24px; position: relative">
+                <div class="Vector" style="width: 15.48px; height: 17.01px; left: 4.26px; top: 5px; position: absolute; border: 1.50px #475569 solid"></div>
+                <div class="Vector" style="width: 11px; height: 14.86px; left: 6.50px; top: 2px; position: absolute; border: 1.50px #475569 solid"></div>
+              </div>
+              <div class="Overview" style="flex: 1 1 0; color: #333333; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Goals</div>
+            </div>
+            <div class="Button" style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 12px; padding-bottom: 12px; background: white; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+              <div class="Schedule" style="width: 24px; height: 24px; position: relative">
+                <div class="Vector" style="width: 18px; height: 20px; left: 3px; top: 2px; position: absolute; border: 1.50px #475569 solid"></div>
+                <div class="Vector" style="width: 7.41px; height: 3px; left: 8.29px; top: 13.70px; position: absolute; border: 2px #475569 solid"></div>
+              </div>
+              <div class="Overview" style="flex: 1 1 0; color: #333333; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">My Schedule</div>
+            </div>
+            <div class="Button" style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 12px; padding-bottom: 12px; background: white; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+              <div class="Progres" style="width: 24px; height: 24px; padding: 2px; flex-direction: column; justify-content: center; align-items: flex-start; display: inline-flex">
+                <div class="Vector" style="width: 18px; height: 20px; border: 1.50px #475569 solid"></div>
+                <div class="Vector" style="width: 20px; height: 0px; border: 1.50px #475569 solid"></div>
+              </div>
+              <div class="Overview" style="flex: 1 1 0; color: #333333; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Progress</div>
+              <div class="ArrowDark" style="width: 24px; height: 24px; padding-top: 7.76px; padding-bottom: 7.76px; justify-content: center; align-items: center; display: flex">
+                <div class="Vector" style="width: 5.66px; height: 8.49px; background: #475569"></div>
+              </div>
+            </div>
+            <div class="Frame427319141" style="width: 192px; flex: 1 1 0"></div>
+          </div>
+        </div>
+      </div>
+      <div class="Component2" style="align-self: stretch; padding-left: 16px; padding-right: 16px; padding-top: 12px; padding-bottom: 12px; background: white; border-radius: 8px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+        <div class="Help" style="width: 24px; height: 24px; padding: 2px; justify-content: center; align-items: center; display: flex">
+          <div class="Vector" style="width: 20px; height: 20px; background: #475569"></div>
+        </div>
+        <div class="Overview" style="flex: 1 1 0; color: #475569; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Help</div>
+      </div>
+      <div class="Button" style="align-self: stretch; padding: 16px; background: white; border-top: 1px #E2E8F0 solid; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+        <div class="Logout" style="width: 24px; height: 24px; padding-top: 2.49px; padding-bottom: 2.47px; padding-left: 2.50px; padding-right: 2.50px; justify-content: center; align-items: center; display: flex">
+          <div class="Vector" style="width: 19px; height: 19.04px; border: 1.50px #475569 solid"></div>
+        </div>
+        <div class="Overview" style="flex: 1 1 0; color: #333333; font-size: 14px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Logout</div>
+      </div>
+    </div>
+    <div class="WorkoutBold" style="width: 24px; height: 24px; padding-left: 0.75px; padding-right: 0.75px; padding-top: 5.25px; padding-bottom: 5.25px; left: 781px; top: 322px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div class="Vector" style="width: 22.50px; height: 13.50px; background: #333333"></div>
+    </div>
+    <div class="YourProfile" style="left: 681px; top: 82px; position: absolute; color: black; font-size: 24px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Your Profile</div>
+    <div class="UserProfileInformation" style="width: 342px; height: 277px; left: 587px; top: 428px; position: absolute">
+      <div class="Rectangle34624297" style="width: 342px; height: 60px; left: 0px; top: 25px; position: absolute; background: #D9D9D9; border-radius: 12px"></div>
+      <div class="Rectangle34624298" style="width: 342px; height: 60px; left: 0px; top: 121px; position: absolute; background: #D9D9D9; border-radius: 12px"></div>
+      <div class="Rectangle34624299" style="width: 342px; height: 60px; left: 0px; top: 217px; position: absolute; background: #D9D9D9; border-radius: 12px"></div>
+      <div class="MoustafaMaged" style="left: 110px; top: 44px; position: absolute; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Moustafa Maged</div>
+      <div class="Name" style="left: 9px; top: 0px; position: absolute; color: #7F7F7F; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Name</div>
+      <div class="Gender" style="left: 9px; top: 96px; position: absolute; color: #7F7F7F; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Gender</div>
+      <div class="DateOfBirth" style="left: 9px; top: 193px; position: absolute; color: #7F7F7F; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Date of Birth</div>
+      <div class="42001" style="left: 132px; top: 237px; position: absolute; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">18/4/2001</div>
+      <div class="Male" style="left: 151px; top: 141px; position: absolute; color: black; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Male</div>
+    </div>
+    <div class="Base" style="width: 36px; height: 36px; left: 783px; top: 250px; position: absolute; background: #040415; border: 4px white solid"></div>
+    <div class="Path" style="width: 14px; height: 14px; left: 795px; top: 261px; position: absolute; background: white"></div>
+    <div class="TotalCalories" style="width: 237px; height: 84px; left: 626px; top: 322px; position: absolute">
+      <div class="TotalCalories" style="width: 139px; left: 0px; top: 59px; position: absolute; text-align: center; color: #7F7F7F; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Total calories</div>
+      <div class="WorkoutLevel" style="width: 139px; left: 98px; top: 60px; position: absolute; text-align: center; color: #7F7F7F; font-size: 14px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Workout Level</div>
+      <div class="NumberOfCalories" style="width: 139px; left: 0px; top: 32px; position: absolute; text-align: center; color: #040415; font-size: 18px; font-family: Roboto; font-weight: 400; line-height: 28px; word-wrap: break-word">350</div>
+      <div class="AthleticLevel" style="width: 139px; left: 98px; top: 32px; position: absolute; text-align: center; color: #040415; font-size: 18px; font-family: Roboto; font-weight: 400; line-height: 28px; word-wrap: break-word">Athletic</div>
+      <div class="Icon" style="width: 24px; height: 24px; padding-top: 2px; padding-bottom: 1.99px; padding-left: 4px; padding-right: 3.99px; left: 57px; top: 0px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <img class="Lightning" style="width: 16px; height: 20px" src="https://via.placeholder.com/16x20" />
+      </div>
+    </div>
+  </div>
+  <div class="AppOpeningPage" style="width: 1280px; height: 832px; position: relative; background: #F5F5F5; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)">
+    <div class="Line7" style="width: 89px; height: 0px; left: 320px; top: 0px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px #F5F5F5 solid"></div>
+    <div class="Healthhub" style="left: 525px; top: 349px; position: absolute"><span style="color: #007BFF; font-size: 48px; font-family: Roboto; font-weight: 800; line-height: 22px; word-wrap: break-word">Health</span><span style="color: #F97316; font-size: 48px; font-family: Roboto; font-weight: 800; line-height: 22px; word-wrap: break-word">Hub</span></div>
+  </div>
